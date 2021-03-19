@@ -40,6 +40,8 @@ Click `NuGet` -> `Manage NuGet Packages` to open NuGet windows.
 `Edit` -> `Project Settings` -> `Player` and find `Api Compatibility
 Level*`. Select and replace `.NET Standard 2.0` to `.NET 4.x`.
 
+<p align="center"><img src="./etc/api-level.png"/></p>
+
 ## License
 
 [MIT](LICENSE) © [Jen-Chieh Shen](https://github.com/jcs090218)

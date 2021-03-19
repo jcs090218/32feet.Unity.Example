@@ -9,9 +9,8 @@
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-Classic-006DB5.svg?style=flat&logo=bluetooth)](#)
 
 This project teaches you how to use [32feet](https://github.com/inthehand/32feet)
-inside your Unity project. This project should be easy enough
-for any experienced Unity Developer to further develop a
-Bluetooth application using the Unity Engine.
+inside your Unity project. You would only need a little experience
+of Unity in order to understand and interact with `32feet` library.
 
 ## Dependencies
 

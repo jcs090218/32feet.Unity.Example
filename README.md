@@ -20,7 +20,7 @@ What are inside this example project?
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)
 * [32feet - InTheHand.Net.Bluetooth](https://github.com/inthehand/32feet)
 
-## Tutorial
+## Explanation
 
 Here explains how this project is built.
 
@@ -32,7 +32,7 @@ Download NuGetForUnity from
 
 Click `NuGet` -> `Manage NuGet Packages` to open NuGet windows.
 
-<p align="center"><img src="./etc/nuget, 32feet.png"/></p>
+<p align="center"><img src="./etc/nuget, 32feet.png" width="160" height="286"/></p>
 
 ### :mag: Step 3. Set `Api Compatibility Level`
 

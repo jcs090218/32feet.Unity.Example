@@ -9,14 +9,30 @@
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-Classic-006DB5.svg?style=flat&logo=bluetooth)](#)
 
 This project teaches you how to use [32feet](https://github.com/inthehand/32feet)
-inside your Unity project.
+inside your Unity project. This project should be easy enough
+for any experienced Unity Developer to further develop a
+Bluetooth application using the Unity Engine.
 
 ## Dependencies
 
-What is inside this example project?
+What are inside this example project?
 
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)
 * [32feet - InTheHand.Net.Bluetooth](https://github.com/inthehand/32feet)
+
+## Tutorial
+
+Here explains how this project is built.
+
+### Step 1. Add package `NuGetForUnity` to Unity Project
+
+Download NuGetForUnity from 
+
+### Steps 2. Install `InTheHand.Net.Bluetooth` through `NuGet`
+
+Click `NuGet` -> `Manage NuGet Packages` to open NuGet windows.
+
+<p align="center"><img src="./etc/nuget, 32feet.png"/></p>
 
 ## License
 

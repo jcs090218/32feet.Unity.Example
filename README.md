@@ -26,7 +26,9 @@ Here explains how this project is built.
 
 ### :mag: Step 1. Add package `NuGetForUnity` to Unity Project
 
-Download NuGetForUnity from 
+Download NuGetForUnity from their release page [here](https://github.com/GlitchEnzo/NuGetForUnity/releases).
+Make sure you download the file `NugetForUnity.X.X.X.unitypackage` and
+import it to your Unity project.
 
 ### :mag: Step 2. Install `InTheHand.Net.Bluetooth` through `NuGet`
 

@@ -5,3 +5,7 @@
 # 32feet.Unity.Example
 
 N/A
+
+## Dependencies
+
+* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)

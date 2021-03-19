@@ -44,6 +44,11 @@ Level*`. Select and replace `.NET Standard 2.0` to `.NET 4.x`.
 
 <p align="center"><img src="./etc/api-level.png"/></p>
 
+### :tada: Done, and Enjoy! :partying_face:
+
+You can now create new script and start using the 32feet bluetooth library
+interface. You might want to checkout the document [here](http://inthehand.github.io/html/R_Project_InTheHand.htm).
+
 ## License
 
 [MIT](LICENSE) © [Jen-Chieh Shen](https://github.com/jcs090218)

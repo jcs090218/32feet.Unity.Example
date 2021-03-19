@@ -24,15 +24,21 @@ What are inside this example project?
 
 Here explains how this project is built.
 
-### Step 1. Add package `NuGetForUnity` to Unity Project
+### :mag: Step 1. Add package `NuGetForUnity` to Unity Project
 
 Download NuGetForUnity from 
 
-### Steps 2. Install `InTheHand.Net.Bluetooth` through `NuGet`
+### :mag: Step 2. Install `InTheHand.Net.Bluetooth` through `NuGet`
 
 Click `NuGet` -> `Manage NuGet Packages` to open NuGet windows.
 
 <p align="center"><img src="./etc/nuget, 32feet.png"/></p>
+
+### :mag: Step 3. Set `Api Compatibility Level`
+
+`32feet` library requires .NET 4.x or above. Please navigate to
+`Edit` -> `Project Settings` -> `Player` and find `Api Compatibility
+Level*`. Select and replace `.NET Standard 2.0` to `.NET 4.x`.
 
 ## License
 

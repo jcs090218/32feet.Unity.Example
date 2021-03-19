@@ -4,6 +4,7 @@
 [![NuGetForUnity](https://img.shields.io/badge/NuGetForUnity-3.0.1-004880.svg?style=flat&logo=nuget)](https://github.com/GlitchEnzo/NuGetForUnity)
 
 # 32feet.Unity.Example
+> Example project to use 32feet inside Unity Engine
 
 N/A
 

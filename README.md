@@ -20,7 +20,7 @@ What are inside this example project?
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)
 * [32feet - InTheHand.Net.Bluetooth](https://github.com/inthehand/32feet)
 
-## Explanation
+## :books: Explanation
 
 Here explains how this project is built.
 

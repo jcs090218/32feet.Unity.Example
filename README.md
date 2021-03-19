@@ -2,9 +2,7 @@
 [![Unity Engine](https://img.shields.io/badge/unity-2020.1.2f1-black.svg?style=flat&logo=unity&cacheSeconds=2592000)](https://unity3d.com/get-unity/download/archive)
 [![32feet](https://img.shields.io/badge/32'-4.0.15-006665.svg?style=flat)](https://github.com/inthehand/32feet)
 [![NuGetForUnity](https://img.shields.io/badge/NuGetForUnity-3.0.1-004880.svg?style=flat&logo=nuget)](#)
-
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-Classic-006DB5.svg?style=flat&logo=bluetooth)]()
-
 
 # 32feet.Unity.Example
 > Example project to use 32feet inside Unity Engine (Bluetooth Classic)

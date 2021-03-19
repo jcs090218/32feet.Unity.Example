@@ -30,7 +30,9 @@ Download NuGetForUnity from
 
 ### :mag: Step 2. Install `InTheHand.Net.Bluetooth` through `NuGet`
 
-Click `NuGet` -> `Manage NuGet Packages` to open NuGet windows.
+Click `NuGet` -> `Manage NuGet Packages` to open the NuGet windows.
+Then type `32feet` into search bar and find the package `InTheHand.Net.Bluetooth`
+to install.
 
 <p align="center"><img src="./etc/nuget, 32feet.png" width="214" height="378"/></p>
 

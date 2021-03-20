@@ -21,7 +21,9 @@ What are inside this example project?
 
 ## :books: Explanation
 
-Here explains how this project is built.
+Here explains how this project is built and teaches you how to
+set up the development environment for building a Bluetooth
+application within the Unity Engine.
 
 ### :mag: Step 1. Add package `NuGetForUnity` to Unity Project
 

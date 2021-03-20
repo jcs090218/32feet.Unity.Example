@@ -52,12 +52,12 @@ public class Test_Bluetooth
             return;
         }
 
-        foreach (var bdi in peers)
+        foreach (var deviceInfo in peers)
         {
-            print("DN: " + bdi.DeviceName);
+            print("DN: " + deviceInfo.DeviceName);
 
-            if (bdi.DeviceName == "raspberrypi")
-                mDevice = bdi;
+            if (deviceInfo.DeviceName == "raspberrypi")
+                mDevice = deviceInfo;
         }
 
         if (mDevice != null)

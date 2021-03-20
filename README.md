@@ -54,7 +54,10 @@ interface. You might want to checkout the document [here](http://inthehand.githu
 
 ## Contribution
 
-N/A
+Thanks for reading this and consider contribute to the project. If you have
+found any issue please open in our issue tracker [here](https://github.com/jcs-workspace/32feet.Unity.Example/issues).
+If you would like to add more example or any other feature implementation,
+feel free to make a PR in this repository!
 
 ## License
 

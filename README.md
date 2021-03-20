@@ -23,7 +23,7 @@ What are inside this example project?
 
 Here explains how this project is built and teaches you how to
 set up the development environment for building a bluetooth
-application within the Unity Engine.
+application using the Unity.
 
 ### :mag: Step 1. Add package `NuGetForUnity` to Unity Project
 

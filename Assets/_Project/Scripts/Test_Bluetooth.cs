@@ -60,8 +60,10 @@ public class Test_Bluetooth
                 mDevice = deviceInfo;
         }
 
-        if (mDevice != null)
-            print("Address: " + mDevice.DeviceAddress);
+        if (mDevice == null)
+            return;
+
+        print("Address: " + mDevice.DeviceAddress);
 
         cli.Connect(mDevice.DeviceAddress, BluetoothService.SerialPort);
 

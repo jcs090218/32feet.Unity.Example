@@ -4,7 +4,7 @@
 [![NuGetForUnity](https://img.shields.io/badge/NuGetForUnity-3.0.1-004880.svg?style=flat&logo=nuget)](#)
 
 # 32feet.Unity.Example
-> Example project to use 32feet inside Unity Engine (Bluetooth Classic)
+> Example project to use 32feet inside Unity (Bluetooth Classic)
 
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-Classic-006DB5.svg?style=flat&logo=bluetooth)](#)
 

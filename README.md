@@ -12,7 +12,7 @@ This project teaches you how to use [32feet](https://github.com/inthehand/32feet
 inside your Unity project. You would only need a little experience
 of Unity in order to understand and interact with `32feet` library.
 
-## Dependencies
+## :pushpin: Dependencies
 
 What are inside this example project?
 
